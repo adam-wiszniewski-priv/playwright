@@ -1,0 +1,7 @@
+{
+    "default": {
+      "format": ["@cucumber/pretty-formatter"],
+      "requireModule": ["ts-node/register"], 
+      "require": ["steps/*.ts", "support/*.ts"]
+    }
+  }
