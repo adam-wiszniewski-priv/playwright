@@ -1,1 +1,2 @@
-Playwright automation basics
+Jak odpalić?
+npx cucumber-js
